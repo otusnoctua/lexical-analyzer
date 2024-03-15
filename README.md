@@ -15,3 +15,7 @@ R &rarr; 0 | 1 | ... | 9\
 C &rarr; a | b | ... | z | A | ... | Z \
 
 Comments format: (* ... *\)
+
+## State diagram
+
+![State diagram](https://github.com/otusnoctua/lexical-analyzer/blob/main/state-diagram.png?raw=true)
