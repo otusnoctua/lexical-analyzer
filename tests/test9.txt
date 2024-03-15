@@ -1,0 +1,5 @@
+begin
+142
+r1!=r2
+do r1=r1+2 loop until r1<r2
+end

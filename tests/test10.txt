@@ -1,0 +1,17 @@
+if
+else
+for
+and
+or
+begin
+end
+not
+loop
+until
+do
++ - / * < > != := ( ) ; .
+id1
+id2
+145
+228
+(*blah blah blah*)
